@@ -17,3 +17,11 @@ Repository **Test-Komerce** test proyek berbasis Go.
    ```bash
    go run short_char.go
    ```
+# Contoh :
+
+![Deskripsi gambar](images/image.png)
+![Deskripsi gambar](images/image0.png)
+![Deskripsi gambar](images/image1.png)
+![Deskripsi gambar](images/image2.png)
+![Deskripsi gambar](images/image3.png)
+
